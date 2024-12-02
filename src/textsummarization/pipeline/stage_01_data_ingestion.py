@@ -1,7 +1,7 @@
-# from src.textsummarization.config.configuration import ConfigurationManager
+
 from src.textsummarization.config.configuration import ConfigurationManager
 from src.textsummarization.components.data_ingestion import DataIngestion
-# from textsummarization import logger
+# from src.textsummarization import logger
 
 
 class DataIngestionTrainingPipeline:
